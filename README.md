@@ -1,2 +1,2 @@
-# VoxellEngine
+# Voxell
 Voxell Engine
